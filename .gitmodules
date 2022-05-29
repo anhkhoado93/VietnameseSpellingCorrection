@@ -1,0 +1,3 @@
+[submodule "demoapp"]
+	path = demoapp
+	url = https://github.com/hieunt2501/SpellingCorrectorApp.git
