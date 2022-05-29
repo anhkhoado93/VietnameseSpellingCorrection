@@ -1,3 +1,6 @@
 [submodule "demoapp"]
 	path = demoapp
 	url = https://github.com/hieunt2501/SpellingCorrectorApp.git
+[submodule "Augmenter"]
+	path = Augmenter
+	url = https://github.com/anhkhoado93/NonWordAugmenter.git
